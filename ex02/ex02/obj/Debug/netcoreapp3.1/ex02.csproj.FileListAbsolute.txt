@@ -1,0 +1,13 @@
+D:\atividades-poo-csharp\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.exe
+D:\atividades-poo-csharp\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.deps.json
+D:\atividades-poo-csharp\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.json
+D:\atividades-poo-csharp\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.runtimeconfig.dev.json
+D:\atividades-poo-csharp\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.dll
+D:\atividades-poo-csharp\ex02\ex02\bin\Debug\netcoreapp3.1\ex02.pdb
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.csprojAssemblyReference.cache
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfoInputs.cache
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.AssemblyInfo.cs
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.csproj.CoreCompileInputs.cache
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.dll
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.pdb
+D:\atividades-poo-csharp\ex02\ex02\obj\Debug\netcoreapp3.1\ex02.genruntimeconfig.cache
